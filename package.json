@@ -1,0 +1,15 @@
+{
+  "name": "zx.js",
+  "version": "1.0.0",
+  "description": "Build a standard command line tool for React items using ZX.js",
+  "main": "index.mjs",
+  "scripts": {
+    "generate": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "Tomoe Li",
+  "email": "liyubo683@gmail.com",
+  "devDependencies": {
+    "zx": "^5.0.0"
+  }
+}
